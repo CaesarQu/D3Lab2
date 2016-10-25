@@ -1,0 +1,479 @@
+{
+    "name": "TCM Analysis",
+    "children": [{
+        "name": "Qi Deficiency(气虚质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "说话声音低弱，精神不振，容易疲劳，易出汗",
+                "size": 3938
+            }, {
+                "name": "性格多内向，不喜冒险",
+                "size": 3812
+            }, {
+                "name": "易感冒，康复缓慢",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Millet(小米)",
+                "size": 3534
+            }, {
+                "name": "Barley(大麦)",
+                "size": 5731
+            }, {
+                "name": "Chinese yam(山药)",
+                "size": 7840
+            }, {
+                "name": "Chinese-date,Jujube(大枣)",
+                "size": 5914
+            }, {
+                "name": "Chicken(鸡肉)",
+                "size": 3416
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "避免过度劳累",
+                "size": 7074
+            }, {
+                "name": "散步",
+                "size": 7074
+            }, {
+                "name": "太极拳",
+                "size": 7074
+            }, {
+                "name": "慢跑",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Blood Deficiency(血虚质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "面色苍白或萎黄（晦黄暗哑）",
+                "size": 3938
+            }, {
+                "name": "发色枯槁，易脱发",
+                "size": 3812
+            }, {
+                "name": "容易疲劳，精力不足，睡眠较差",
+                "size": 6714
+            }, {
+                "name": "性格多内向",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Donkey-hide gelatin(阿胶)",
+                "size": 3534
+            }, {
+                "name": "Dried Longan Pulp(龙眼肉)",
+                "size": 5731
+            }, {
+                "name": "Peanut(花生)",
+                "size": 7840
+            }, {
+                "name": "Chinese-date,Jujube(大枣)",
+                "size": 5914
+            }, {
+                "name": "Mulberry(桑椹)",
+                "size": 3416
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "起居顺应自然的规律，按时作息，睡眠充足，劳逸结合",
+                "size": 7074
+            }, {
+                "name": "太极拳",
+                "size": 7074
+            }, {
+                "name": "慢跑",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Yin Deficiency(阴虚质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "口干燥热，手足心热，眼睛干涩，皮肤干燥",
+                "size": 3938
+            }, {
+                "name": "睡眠质量差，夜间可见盗汗（睡眠中出汗，醒后即止）",
+                "size": 3812
+            }, {
+                "name": "性格多外向，容易急躁",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Lily(百合)",
+                "size": 3534
+            }, {
+                "name": "Tremella(银耳)",
+                "size": 5731
+            }, {
+                "name": "Polygonatum(黄精)",
+                "size": 7840
+            }, {
+                "name": "Polygonatum prattii,herbal(玉竹)",
+                "size": 5914
+            }, {
+                "name": "Matrimony vine(枸杞)",
+                "size": 3416
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "避免熬夜、剧烈运动及高温下劳作",
+                "size": 7074
+            }, {
+                "name": "控制出汗量，及时补水",
+                "size": 7074
+            }, {
+                "name": "选择动静结合的运动项目",
+                "size": 7074
+            }, {
+                "name": "八段锦",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Yang Deficiency(阳虚质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "怕冷，对温度变化敏感,手脚常冰冷",
+                "size": 3938
+            }, {
+                "name": "常不能完全消化食物,喜热饮食,食用冰冷食物常引起腹泻",
+                "size": 3812
+            }, {
+                "name": "性格多内向，安静",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Lamb(羊肉)",
+                "size": 3534
+            }, {
+                "name": "Chicken(鸡肉)",
+                "size": 5731
+            }, {
+                "name": "Chinese chives(韭菜)",
+                "size": 7840
+            }, {
+                "name": "Walnut(胡桃仁)",
+                "size": 5914
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "注意足下、背部保暖，避免贪凉及阴冷环境",
+                "size": 7074
+            }, {
+                "name": "多在阳光下进行锻炼，以舒缓运动为佳",
+                "size": 7074
+            }, {
+                "name": "散步",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Sthenia Heat(实热质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "怕热，易口渴，喜好冰冷饮食",
+                "size": 3938
+            }, {
+                "name": "多见面色红及眼睛红",
+                "size": 3812
+            }, {
+                "name": "大便干燥，小便色深",
+                "size": 6714
+            }, {
+                "name": "烦躁，容易发怒",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Honeysuckle(金银花)",
+                "size": 3534
+            }, {
+                "name": "Portulaca oleracea(马齿苋)",
+                "size": 5731
+            }, {
+                "name": "Chrysanthemum(菊花)",
+                "size": 7840
+            }, {
+                "name": "Flos Sophorae(槐花)",
+                "size": 5914
+            }, {
+                "name": "Momordica grosvenori(罗汉果)",
+                "size": 5914
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "避免暴露于烈日或者炎热环境",
+                "size": 7074
+            }, {
+                "name": "作息规律，睡眠充足",
+                "size": 7074
+            }, {
+                "name": "控制出汗量，及时补水，避免过度运动",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Dampness Heat(湿热质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "面部皮肤油脂分泌旺盛，易生痤疮",
+                "size": 3938
+            }, {
+                "name": "身体容易疲倦并感觉困重",
+                "size": 3812
+            }, {
+                "name": "舌色红并伴黄苔",
+                "size": 6714
+            }, {
+                "name": "性格多急躁易怒",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Mung Bean(绿豆)",
+                "size": 3534
+            }, {
+                "name": "Balsam pear(苦瓜)",
+                "size": 5731
+            }, {
+                "name": "Pearl barley(薏米)",
+                "size": 7840
+            }, {
+                "name": "Tomato(西红柿)",
+                "size": 5914
+            }, {
+                "name": "Cucumber(黄瓜)",
+                "size": 5914
+            }, {
+                "name": "Less Wine(少饮酒)",
+                "size": 5914
+            }, {
+                "name": "Less Seafood(少吃海鲜)",
+                "size": 5914
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "避免熬夜过劳",
+                "size": 7074
+            }, {
+                "name": "夏季注意避暑湿之地",
+                "size": 7074
+            }, {
+                "name": "适合高强度锻炼，例如：长跑、游泳、爬山等，夏季锻炼应凉爽时进行",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Phlegmatic Hygrosis(痰湿质)",
+        "children": [{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "体型肥胖者多见，尤以腹部脂肪松软堆积为特征",
+                "size": 3938
+            }, {
+                "name": "皮肤油脂分泌旺盛，嗜好甜食",
+                "size": 3812
+            }, {
+                "name": "不喜潮湿天气",
+                "size": 6714
+            }, {
+                "name": "性格多温和、稳重、忍让",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Ternip(白萝卜)",
+                "size": 3534
+            }, {
+                "name": "Red bean(红小豆)",
+                "size": 5731
+            }, {
+                "name": "Ginkgo Seed(白果)",
+                "size": 7840
+            }, {
+                "name": "Onion and ginger(葱姜)",
+                "size": 5914
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "避免阴湿之地，常晒太阳",
+                "size": 7074
+            }, {
+                "name": "多做户外运动，例如：武术、球类、舞蹈等",
+                "size": 7074
+            }, {
+                "name": "循序渐进进行锻炼",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Qi Stagnation(气郁质)",
+        "children": [
+			{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "易情绪低落",
+                "size": 3938
+            }, {
+                "name": "常见胸部、肋部胀痛",
+                "size": 3812
+            }, {
+                "name": "食欲减退，并伴消化不良",
+                "size": 6714
+            }, {
+                "name": "睡眠不佳、健忘",
+                "size": 6714
+            }, {
+                "name": "性格内向，敏感",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Finger Citron(佛手)",
+                "size": 3534
+            }, {
+                "name": "Dried tangerine or orange peel(陈皮)",
+                "size": 5731
+            }, {
+                "name": "Buckwheat(荞麦)",
+                "size": 7840
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "多参加社交活动",
+                "size": 7074
+            }, {
+                "name": "培养良好情绪",
+                "size": 7074
+            }, {
+                "name": "通过运动帮助身体气血运行，例如：跑步、爬山、武术等，并可以重点练习吐纳",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Blood Stasis(血瘀质)",
+        "children": [
+			{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "肤色及唇色晦暗，常伴色素沉着及黑眼圈",
+                "size": 3938
+            }, {
+                "name": "舌下静脉明显可见",
+                "size": 3812
+            }, {
+                "name": "易烦躁，健忘",
+                "size": 6714
+            }, {
+                "name": "女性常伴有痛经、血块等经期问题",
+                "size": 6714
+            }]
+        }, {
+            "name": "Food Suggestion(食疗)",
+            "children": [{
+                "name": "Carthamus tinctorious(红花)",
+                "size": 3534
+            }, {
+                "name": "Rose(玫瑰)",
+                "size": 5731
+            }, {
+                "name": "Peach kernel(桃仁)",
+                "size": 7840
+            }, {
+                "name": "Brown sugar(红糖)",
+                "size": 7840
+            }, {
+                "name": "Wine(酒)",
+                "size": 7840
+            }]
+        }, {
+            "name": "Sports Hints(运动建议)",
+            "children": [{
+                "name": "注意作息规律、睡眠充足",
+                "size": 7074
+            }, {
+                "name": "培养乐观情绪",
+                "size": 7074
+            }, {
+                "name": "多做促进血液循环的运动，例如：舞蹈、太极拳、八段锦、保健按摩等",
+                "size": 7074
+            }]
+        }]
+    }, {
+        "name": "Irritable(过敏质)",
+        "children": [
+			{
+            "name": "Symptom(症状)",
+            "children": [{
+                "name": "由药物、花粉等致敏原引发哮喘、风团、咽痒、鼻塞、喷嚏等过敏表现",
+                "size": 3938
+            }]
+        }, {
+            "name": "Suggestion(建议)",
+            "children": [{
+                "name": "敏感体质情况复杂，按照相关体质特征予以调养",
+                "size": 3534
+            }]
+        }]
+    }, {
+        "name": "Harmony(平和体质)",
+        "children": [
+			{
+            "name": "Performance(表现)",
+            "children": [{
+                "name": "面色红润，精力充沛，体态匀称健壮",
+                "size": 3938
+            }, {
+                "name": "睡眠、饮食良好",
+                "size": 3812
+            }, {
+                "name": "为人积极、开朗，较少患病",
+                "size": 6714
+            }, {
+                "name": "对自然环境和社会环境适应能力较强",
+                "size": 6714
+            }]
+        }, {
+            "name": "Characteristic(特征)",
+            "children": [{
+                "name": "遵循自然规律",
+                "size": 3534
+            }, {
+                "name": "饮食有节、起居有度",
+                "size": 5731
+            }, {
+                "name": "保持体质平衡",
+                "size": 7840
+            }]
+        }]
+    }]
+}
