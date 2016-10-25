@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+
+	<body>
+		<script src="https://d3js.org/d3.v3.min.js"></script>
+	</body>
+	<script>
+		var lineData = new Array();
+		var range = 500;
+		for(var a = 0; a < range; a++) {
+			var x0 = (a >> 0) % 2;
+			var x1 = (a >> 2) % 2;
+			var x2 = (a >> 4) % 2;
+			var x3 = (a >> 6) % 2;
+			var x4 = (a >> 8) % 2;
+			var rowBi = (((x4.toString().concat(x3)).toString().concat(x2)).toString().concat(x1)).toString().concat(x0);
+			var row = parseInt(rowBi.toString(2), 2);
+			//console.log("original" + a.toString(2) + "row" + " " + rowBi.toString() + "asdasd" + row);	
+
+			var y0 = (a >> 1) % 2;
+			var y1 = (a >> 3) % 2;
+			var y2 = (a >> 5) % 2;
+			var y3 = (a >> 7) % 2;
+			var y4 = (a >> 9) % 2;
+			var columnBi = (((y4.toString().concat(y3)).toString().concat(y2)).toString().concat(y1)).toString().concat(y0);
+			var column = parseInt(columnBi.toString(2), 2);
+			//console.log("column" + " " + columnBi.toString() + "asdasd" + column);
+			lineData.push({x:row*10, y:column*10});
+		}
+
+		console.log(JSON.stringify(lineData));
+
+
+		//This is the accessor function we talked about above
+		var lineFunction = d3.svg.line()
+			.x(function(d) {
+				return d.x;
+			})
+			.y(function(d) {
+				return d.y;
+			})
+			.interpolate("linear");
+
+		//The SVG Container
+		var svgContainer = d3.select("body").append("svg")
+			.attr("width", 500)
+			.attr("height", 500);
+
+		//The line SVG Path we draw
+		var lineGraph = svgContainer.append("path")
+			.attr("d", lineFunction(lineData))
+			.attr("stroke", "blue")
+			.attr("stroke-width", 2)
+			.attr("fill", "none");
+		var linear = d3.scale.linear()
+			.domain([0, 5])
+			.range([0, 300]);
+			
+			 
+	</script>
+
+</html>
